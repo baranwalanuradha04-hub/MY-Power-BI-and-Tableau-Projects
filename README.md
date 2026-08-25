@@ -60,10 +60,6 @@ Building a variety of visualisations to represent different types of insight:
 
 
 
-## 🎯 Purpose
-
-These projects strengthened my understanding of end-to-end BI workflows — from cleaning and shaping data, through building calculations, to designing interactive, visually clear reports — in both Power BI and Tableau. These are core skills for a Data Technician role, particularly when it comes to communicating retail and sales insights to a non-technical audience. Part of my ongoing journey transitioning into a career in data and technology.
-
 
 
 
@@ -137,7 +133,7 @@ The dashboard combines several worksheets into a single interactive view:
 
 This project applies core Tableau skills — Top N filters, single-value dropdown filters, table calculations (percentage of total), calculated fields, and a variety of chart types (bar, line, pie, scatter) — to a global health dataset, telling a data story around life expectancy, population demographics, and health disparities across countries and continents.
 
-This project applies core Tableau skills — multi-sheet dashboards, filters, legends, and a variety of chart types (bar, pie, line, scatter) — to a music streaming dataset, telling a data story around genre, loudness, danceability, energy, and popularity trends over time.
+
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 <br><br>
 ## 💼 Project 5: GB Employment Insights — Tableau Dashboard
