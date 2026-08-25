@@ -89,7 +89,45 @@ The dashboard combines 5 worksheets into a single interactive view:
 - **Count of Track Id** range filter
 - Built in a tiled dashboard layout, with a phone-optimized device preview also configured
 
+
 ### 🎯 Purpose
+
+This project applies core Tableau skills — multi-sheet dashboards, filters, legends, and a variety of chart types (bar, pie, line, scatter) — to a music streaming dataset, telling a data story around genre, loudness, danceability, energy, and popularity trends over time.
+
+---
+
+
+## 🌍 Project 4: Global Health Insights — Tableau Dashboard
+
+A Tableau dashboard analyzing global health data across countries and continents, exploring life expectancy trends, disease patterns, and demographic breakdowns to surface key health disparities worldwide.
+
+<img width="547" height="310" alt="image" src="https://github.com/user-attachments/assets/2f6afe3c-015d-4cd1-8256-e5678c6a1384" />
+
+
+**File:** `Global_Health_Insights_Dashboard.twbx`
+**Dashboard name:** *Global Health Insights Dashboard*
+
+<!-- ![Global Health Insights Dashboard](images/global-health-dashboard.png) -->
+
+### 📊 Worksheets Included
+
+The dashboard combines several worksheets into a single interactive view:
+
+- **Life Expectancy by Continent** — bar chart showing average life expectancy for each continent in the most recent year, sorted to highlight the highest and lowest performing regions
+- **Life Expectancy Trend** — line chart tracking life expectancy over time for the top 5 countries with the highest average life expectancy, with country used as colour
+- **Population by Gender** — pie chart showing population distribution by gender for a selected country in the most recent year, with population values displayed as a percentage of total
+- **Life Expectancy vs BMI** — scatter plot exploring the relationship between average life expectancy and average BMI, with individual countries shown as points coloured by continent
+- **Top 5 Countries for Cancer Cases** — additional visual highlighting the countries with the highest reported cancer case counts
+
+### 🎛️ Interactivity
+
+- **Country** filter (single-value dropdown) applied to relevant worksheets, letting users select a country and see related details update
+- **Continent** filter with a visible filter card on the scatter plot worksheet
+- Filters shared across worksheets on the dashboard for coordinated, cross-visual exploration
+
+### 🎯 Purpose
+
+This project applies core Tableau skills — Top N filters, single-value dropdown filters, table calculations (percentage of total), calculated fields, and a variety of chart types (bar, line, pie, scatter) — to a global health dataset, telling a data story around life expectancy, population demographics, and health disparities across countries and continents.
 
 This project applies core Tableau skills — multi-sheet dashboards, filters, legends, and a variety of chart types (bar, pie, line, scatter) — to a music streaming dataset, telling a data story around genre, loudness, danceability, energy, and popularity trends over time.
 
