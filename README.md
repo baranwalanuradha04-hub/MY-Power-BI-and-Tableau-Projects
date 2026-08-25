@@ -60,3 +60,32 @@ Building a variety of visualisations to represent different types of insight:
 
 These projects strengthened my understanding of end-to-end BI workflows — from cleaning and shaping data, through building calculations, to designing interactive, visually clear reports — in both Power BI and Tableau. These are core skills for a Data Technician role, particularly when it comes to communicating retail and sales insights to a non-technical audience.
 *Part of my ongoing journey transitioning into a career in data and technology.*
+
+
+## 🎵 Project 3: Spotify Track Insights — Tableau Dashboard
+
+A Tableau dashboard analyzing Spotify track data across music genres, exploring how audio characteristics and popularity relate to one another.
+
+**File:** `Spotify_Track_Insights.twbx`
+**Dashboard name:** *Spotify Track Insights Dashboard*
+
+### 📊 Worksheets Included
+
+The dashboard combines 5 worksheets into a single interactive view:
+
+- **Music Genre vs Loudness** — bar chart comparing average loudness across genres (Classical shows the lowest/quietest average)
+- **Percentage of Tracks by Popularity** — pie chart showing the split between Low, Medium, and High popularity tracks (71.25% fall into "Medium")
+- **Popularity Trend by Genre** — line chart tracking how average popularity has changed from 2000 to 2026, broken out by genre
+- **Danceability vs Energy** — scatter plot exploring the relationship between average danceability and average energy per genre
+- **Top 10 Popularity by Genre** — bar chart ranking genres by average popularity, led by Folk, Soul, and Jazz
+
+### 🎛️ Interactivity
+
+- **Genre** colour legend for consistent identification across all charts
+- **Popularity Group** filter (High / Low / Medium) to highlight or filter across all views
+- **Count of Track Id** range filter
+- Built in a tiled dashboard layout, with a phone-optimized device preview also configured
+
+### 🎯 Purpose
+
+This project applies core Tableau skills — multi-sheet dashboards, filters, legends, and a variety of chart types (bar, pie, line, scatter) — to a music streaming dataset, telling a data story around genre, loudness, danceability, energy, and popularity trends over time.
