@@ -58,12 +58,16 @@ Building a variety of visualisations to represent different types of insight:
 - Using visuals and interactivity together to highlight key trends, patterns, and outliers relevant to retail and sales performance
 - Focusing on turning raw numbers into insights a business audience can act on
 
+
+
 ## 🎯 Purpose
 
-These projects strengthened my understanding of end-to-end BI workflows — from cleaning and shaping data, through building calculations, to designing interactive, visually clear reports — in both Power BI and Tableau. These are core skills for a Data Technician role, particularly when it comes to communicating retail and sales insights to a non-technical audience.
-*Part of my ongoing journey transitioning into a career in data and technology.*
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-<br><br>
+These projects strengthened my understanding of end-to-end BI workflows — from cleaning and shaping data, through building calculations, to designing interactive, visually clear reports — in both Power BI and Tableau. These are core skills for a Data Technician role, particularly when it comes to communicating retail and sales insights to a non-technical audience. Part of my ongoing journey transitioning into a career in data and technology.
+
+
+
+
+
 
 ## 🎵 Project 3: Spotify Track Insights — Tableau Dashboard
 
