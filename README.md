@@ -4,7 +4,8 @@ This repository contains Power BI and Tableau projects showcasing my dashboard d
 
 Two data visualisation projects completed as part of my Data Technician Bootcamp — one in **Power BI** and one in **Tableau** — both focused on transforming raw data and designing interactive reports that turn structured data into clear, actionable business insights, with an emphasis on retail and sales analytics.
 
----
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+<br><br>
 
 ## 📊 Power BI Project
 
@@ -24,7 +25,8 @@ Focused on transforming raw data, building DAX calculations, and designing inter
 - Adding slicers and filters so users can interactively explore the data by category, region, or time period
 - Structuring reports so that filters apply consistently across multiple visuals on the same page
 
----
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+<br><br>
 
 ## 📈 Tableau Project
 
@@ -60,7 +62,8 @@ Building a variety of visualisations to represent different types of insight:
 
 These projects strengthened my understanding of end-to-end BI workflows — from cleaning and shaping data, through building calculations, to designing interactive, visually clear reports — in both Power BI and Tableau. These are core skills for a Data Technician role, particularly when it comes to communicating retail and sales insights to a non-technical audience.
 *Part of my ongoing journey transitioning into a career in data and technology.*
-
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+<br><br>
 
 ## 🎵 Project 3: Spotify Track Insights — Tableau Dashboard
 
@@ -94,7 +97,8 @@ The dashboard combines 5 worksheets into a single interactive view:
 
 This project applies core Tableau skills — multi-sheet dashboards, filters, legends, and a variety of chart types (bar, pie, line, scatter) — to a music streaming dataset, telling a data story around genre, loudness, danceability, energy, and popularity trends over time.
 
----
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+<br><br>
 
 
 ## 🌍 Project 4: Global Health Insights — Tableau Dashboard
@@ -130,6 +134,39 @@ The dashboard combines several worksheets into a single interactive view:
 This project applies core Tableau skills — Top N filters, single-value dropdown filters, table calculations (percentage of total), calculated fields, and a variety of chart types (bar, line, pie, scatter) — to a global health dataset, telling a data story around life expectancy, population demographics, and health disparities across countries and continents.
 
 This project applies core Tableau skills — multi-sheet dashboards, filters, legends, and a variety of chart types (bar, pie, line, scatter) — to a music streaming dataset, telling a data story around genre, loudness, danceability, energy, and popularity trends over time.
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+<br><br>
+## 💼 Project 5: GB Employment Insights — Tableau Dashboard
 
+A Tableau dashboard analyzing employment trends across Great Britain, exploring how employment figures have changed by city and industry, and identifying the leading industries and sub-industries over time.
+
+<img width="547" height="265" alt="image" src="https://github.com/user-attachments/assets/f655b36e-4d83-4245-8d2c-ba275c82629f" />
+
+
+**File:** `GB_Employment_Dashboard.twbx`
+**Dashboard name:** *Dashboard 1*
+
+<!-- ![GB Employment Dashboard](images/gb-employment-dashboard.png) -->
+
+### 📊 Worksheets Included
+
+The dashboard combines several worksheets into a single interactive view:
+
+- **Avg % Change by City** — chart showing the average percentage change in employment across different cities in Great Britain
+- **Avg % Change by Industry** — chart comparing the average percentage change in employment across industries
+- **Top 5 Industry** — highlights the five leading industries by employment across the full dataset
+- **Top 5 Industry in 2014** — a year-specific breakdown showing the top 5 industries in 2014
+- **Top 5 Sub-Industry in 2014** — drills down further into sub-industry level performance for 2014
+- **Top Sub-Industry in Cities in 2011** — compares the leading sub-industry across cities for 2011
+
+### 🎛️ Interactivity
+
+- Multiple worksheets combined into a single dashboard for side-by-side comparison
+- Year-specific and city-specific views allow users to compare employment performance across different time periods and locations
+- Industry and sub-industry level breakdowns support drilling from a high-level view down into more granular detail
+
+### 🎯 Purpose
+
+This project applies core Tableau skills — Top N analysis, percentage change calculations, and multi-level comparisons (industry vs. sub-industry, city vs. national) — to a Great Britain employment dataset, telling a data story around which industries and cities are growing or declining over time.
 
 
