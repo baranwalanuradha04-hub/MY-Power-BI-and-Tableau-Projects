@@ -64,6 +64,9 @@ These projects strengthened my understanding of end-to-end BI workflows — from
 
 ## 🎵 Project 3: Spotify Track Insights — Tableau Dashboard
 
+
+<img width="507" height="392" alt="image" src="https://github.com/user-attachments/assets/42e22956-93db-4044-a539-cfae3a770f99" />
+
 A Tableau dashboard analyzing Spotify track data across music genres, exploring how audio characteristics and popularity relate to one another.
 
 **File:** `Spotify_Track_Insights.twbx`
@@ -89,3 +92,6 @@ The dashboard combines 5 worksheets into a single interactive view:
 ### 🎯 Purpose
 
 This project applies core Tableau skills — multi-sheet dashboards, filters, legends, and a variety of chart types (bar, pie, line, scatter) — to a music streaming dataset, telling a data story around genre, loudness, danceability, energy, and popularity trends over time.
+
+
+
